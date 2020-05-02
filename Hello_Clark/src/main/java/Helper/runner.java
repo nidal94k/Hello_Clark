@@ -10,5 +10,4 @@ import cucumber.api.junit.Cucumber;
 @CucumberOptions(features = {"src/test/resources/Web_automation/"}
 ,glue={"Web_Automation"})
 public class runner {
-
 }
