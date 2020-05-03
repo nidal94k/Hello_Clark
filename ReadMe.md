@@ -5,7 +5,7 @@
 
 - [Technologies](#Technologies)
 - [Senarcios](#Senarcios)
-- [Test Structure & Runs ](#Test-Structure-&-Runs)
+- [Test Structure & Runs ](#Test-Structure-and-execution)
 - [Running configuration](#Running-configuration)
 
 
@@ -34,7 +34,7 @@
 ![alt text](photos/Flow.PNG)
 
 
-## Test Structure & Runs 
+## Test Structure and execution
 [![Demo Doccou alpha](https://media.giphy.com/media/ll10okkqS3w2ixfC20/source.gif)](https://share.getcloudapp.com/YEu1O4eA)
 > ** Screen recording of the automation run** : <https://share.getcloudapp.com/YEu1O4eA>
                     
