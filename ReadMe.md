@@ -18,7 +18,10 @@
     + Sign Up before buying contract
 + Finalize Offer
     + Add bank account
+    
+    
 ![alt text](photos/JUnit.PNG)
+
 
 ![alt text](photos/Flow.PNG)
 
