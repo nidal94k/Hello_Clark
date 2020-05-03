@@ -1,6 +1,12 @@
 
 # Web Automation - CLARK
 
+## Table of Contents
+
+- [Technologies](#Technologies)
+- [Senarcios](#Senarcios)
+
+
 ## Technologies
 + Java 8
 + Maven
@@ -27,6 +33,7 @@
 
 
 ## Test Structure & Runs 
+[![Demo Doccou alpha](https://media.giphy.com/media/ll10okkqS3w2ixfC20/source.gif)](https://share.getcloudapp.com/YEu1O4eA)
 > ** Screen recording of the automation run** : <https://share.getcloudapp.com/YEu1O4eA>
                     
 ### Methods and techniques 
