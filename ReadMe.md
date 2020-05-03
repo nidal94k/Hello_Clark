@@ -40,18 +40,18 @@
                     
 ### Methods and techniques 
 The project is splitted into two main packages:
-+ **MAIN** 
+✦ **MAIN** 
 
-✦  Page Object [Driver life-cycle management]  // [Link](https://github.com/nidal94k/Hello_Clark/tree/master/Hello_Clark/src/main/java/PageObject)
++ Page Object [Driver life-cycle management]  // [Link](https://github.com/nidal94k/Hello_Clark/tree/master/Hello_Clark/src/main/java/PageObject)
 
-✦ Pages [UI page elements]  // [Link](https://github.com/nidal94k/Hello_Clark/tree/master/Hello_Clark/src/main/java/Pages)
-✦  Helper [Runner class & common helper class]  // [Link](https://github.com/nidal94k/Hello_Clark/tree/master/Hello_Clark/src/main/java/Helper)
++ Pages [UI page elements]  // [Link](https://github.com/nidal94k/Hello_Clark/tree/master/Hello_Clark/src/main/java/Pages)
++ Helper [Runner class & common helper class]  // [Link](https://github.com/nidal94k/Hello_Clark/tree/master/Hello_Clark/src/main/java/Helper)
 
-+ **TEST** 
+✦ **TEST** 
 
-✦ Java            [Java Test classes]  // [Link](https://github.com/nidal94k/Hello_Clark/tree/master/Hello_Clark/src/test/java/Web_Automation)
++ Java            [Java Test classes]  // [Link](https://github.com/nidal94k/Hello_Clark/tree/master/Hello_Clark/src/test/java/Web_Automation)
 
-✦  Rescources [Cucumber files]  // [Link](https://github.com/nidal94k/Hello_Clark/tree/master/Hello_Clark/src/test/resources/Web_Automation)
++ Rescources [Cucumber files]  // [Link](https://github.com/nidal94k/Hello_Clark/tree/master/Hello_Clark/src/test/resources/Web_Automation)
 
 
 
