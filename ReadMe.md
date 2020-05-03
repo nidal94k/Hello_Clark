@@ -41,13 +41,18 @@
 ### Methods and techniques 
 The project is splitted into two main packages:
 + **MAIN** 
--Page Object [Driver life-cycle management]  // [Link](https://github.com/nidal94k/Hello_Clark/tree/master/Hello_Clark/src/main/java/PageObject)
--Pages [UI page elements]  // [Link](https://github.com/nidal94k/Hello_Clark/tree/master/Hello_Clark/src/main/java/Pages)
--Helper [Runner class & common helper class]  // [Link](https://github.com/nidal94k/Hello_Clark/tree/master/Hello_Clark/src/main/java/Helper)
+
+(#) :fa-star:  Page Object [Driver life-cycle management]  // [Link](https://github.com/nidal94k/Hello_Clark/tree/master/Hello_Clark/src/main/java/PageObject)
+
+(#) :fa-star: Pages [UI page elements]  // [Link](https://github.com/nidal94k/Hello_Clark/tree/master/Hello_Clark/src/main/java/Pages)
+
+(#) :fa-star:  Helper [Runner class & common helper class]  // [Link](https://github.com/nidal94k/Hello_Clark/tree/master/Hello_Clark/src/main/java/Helper)
 
 + **TEST** 
--Java            [Java Test classes]  // [Link](https://github.com/nidal94k/Hello_Clark/tree/master/Hello_Clark/src/test/java/Web_Automation)
--Rescources [Cucumber files]  // [Link](https://github.com/nidal94k/Hello_Clark/tree/master/Hello_Clark/src/test/resources/Web_Automation)
+
+(#) :fa-star:  Java            [Java Test classes]  // [Link](https://github.com/nidal94k/Hello_Clark/tree/master/Hello_Clark/src/test/java/Web_Automation)
+
+(#) :fa-star:  Rescources [Cucumber files]  // [Link](https://github.com/nidal94k/Hello_Clark/tree/master/Hello_Clark/src/test/resources/Web_Automation)
 
 
 
