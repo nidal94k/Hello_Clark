@@ -5,7 +5,7 @@
 
 - [Technologies](#Technologies)
 - [Senarcios](#Senarcios)
-- [Test Structure & Runs ](#Test-Structure-and-execution)
+- [Test Structure & execution ](#Test-Structure-and-execution)
 - [Running configuration](#Running-configuration)
 
 
