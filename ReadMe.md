@@ -17,17 +17,7 @@
 + JUnit
 
 ## Senarcios
-+ Choose Deal
-    + Starting Page
-    + Requeste a deal
-+ Choose Offer
-    + User choose offer
-+ Sign Up
-    + Sign Up before buying contract
-+ Finalize Offer
-    + Add bank account
-    
-    
+
 ![alt text](photos/JUnit.PNG)
 
 
