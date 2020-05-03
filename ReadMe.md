@@ -1,9 +1,6 @@
 
 # Web Automation - CLARK
 
-##### Content
-[TOC]
-
 ## Technologies
 + Java 8
 + Maven
