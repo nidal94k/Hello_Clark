@@ -40,6 +40,7 @@
                     
 ### Methods and techniques 
 The project is splitted into two main packages:
+
 ✦ **MAIN** 
 
 + Page Object [Driver life-cycle management]  // [Link](https://github.com/nidal94k/Hello_Clark/tree/master/Hello_Clark/src/main/java/PageObject)
