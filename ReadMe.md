@@ -18,18 +18,11 @@
     + Sign Up before buying contract
 + Finalize Offer
     + Add bank account
+![alt text](photos/JUnit.PNG)
 
-```flow
-st=>start: Starting Page
-op=>operation: Requeste a deal(click Angebote)
-op2=>operation: answers questions
-cond=>condition: Choose Offer
-e=>end: Sign Up and finalize buying contract 
+![alt text](photos/Flow.PNG)
 
-st->op->op2->cond
-cond(yes)->e
-cond(no)->op
-```
+
 ## Test Structure & Runs 
 > ** Screen recording of the automation run** : <https://share.getcloudapp.com/YEu1O4eA>
                     
