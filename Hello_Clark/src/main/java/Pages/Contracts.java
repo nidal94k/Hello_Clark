@@ -87,7 +87,7 @@ public void ChooseOffer(int numberOfOffer)
 	wait20.until(ExpectedConditions.elementToBeClickable(Offer1));
 			
 	if(numberOfOffer==1) {
-//if the user picks the first offer then save the text(name of company that owns provides the contract) for a verifying that comes later
+//if the user picks the first offer then save the text(name of company that provides the contract) to verify it later
 		Offer1.click(); offer1_string=Offer1_name_html.getText();
 	}
 	if(numberOfOffer==2) {
